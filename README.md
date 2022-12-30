@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JasperEdwinAsir
-- 👀 I’m interested in Full Stack web development, development of mobile applications, UI and UX. 
+- 👀 I’m interested in Full Stack web development, development of mobile applications, UI and UX, Cloud Computing, Web3, Blockchain, NFT, CryptoExchange, Game Development using c#, Unity, Unreal, VR and AR.  
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me - I am most active on Twitter
